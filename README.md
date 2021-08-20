@@ -23,6 +23,8 @@ This means you should prepare your campaign for sometime around May, June, or Ju
 
 The last part of the data that we will briefly view here is different from the rest because we are now looking away from America and heading to Great Britain to see the success of musicals there!
 ![](Musicals%20in%20GB.png)
-This Box Plot shows us that the amount 
+This Box Plot shows us that the average goal amount for a musical in Britain is about 4,000 euros.
+Because of the analysis done on the "Descriptive Statistics" tab of the Excel form, we know that US, theater/play kickstarters with higher goals tend to fail and get significantly lower pledge amounts. 
+This information combined with the above graph for musicals in Britain leads me to recommend that if Louise's next move is to campaign for a musical in Britain, she should keep the goal less than 4,000 pounds.
 
 
