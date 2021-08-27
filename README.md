@@ -9,19 +9,24 @@ Louise wrote a play called "Fever" that she needs to fund using a crowdfunding p
 
 ### Analysis of Outcomes Based on Launch Date
 Louise wanted to know whether there was a correlation between success and the date a Kickstarter campaign was launched. Specifically, we will look at which months tend to birth success. The table below shows the data which will be visualized later.
+
 ![](Resources/Theater_Data.png) 
 
 The data was filtered to only theater Kickstarters. The focus was on number of outcomes for each of the following categories: successful, failed, and canceled. Let us look at the the line graph below to visualize that data.
+
 ![](Resources/Theater_Outcomes_vs_Launch.png)
 
 
 ### Analysis of Outcomes Based on Goals
 Louise also wanted to know if a Kickstarter campaign's success depended on the fundraising goal amount. 
 The table underneath can be used to follow along as the process is explained.
+
 ![](Resources/Outcomes_Data.png)
+
 The focus was placed on three of the possible outcomes: successful, failed, and canceled. The number of successful campaigns was split into ranges to find which goal amounts had the best success, the failed and canceled campaigns were also split into the same ranges. 
 The formula highlighted at the top of the image is what was typed in the highlighted cell below. It was used to count how many campaigns there were that fit the conditions: goal amount between 1000 and 4999, successful, plays. Formulas very similar to this one were used in columns B, C, and D. Then, the column total projects was found by summing columns B, C, and D together in their respective rows. To find the percentage, first the formatting for percentage columns was changed to percentage. Second, the data from columns B, C, and D were divided by their respective totals.
 Now the table is complete. The chart below displays the results.
+
 ![](Resources/Outcomes_vs_Goals.png)
 
 
